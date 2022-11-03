@@ -10,7 +10,7 @@
 
 <div>
   <h2> Descrição do Projeto </h2>
-  <p3> O Genius-x86 é um jogo feito em Assembly x86 baseado no clássico jogo Genius da decáda de 80. Nele o jogador é desafiado a lembrar a hordem de uma sequencia de cores conforme elas vão aparecendo. Você tem o que é necessário para vencer esse desafio de memória?</p3><br><br>
+  <p3> O Genius-x86 é um jogo feito em Assembly x86 baseado no clássico jogo Genius da decáda de 80. Nele o jogador é desafiado a lembrar a ordem de uma sequência de cores conforme elas vão aparecendo. Você tem o que é necessário para vencer esse desafio de memória?</p3><br><br>
   <p3>Esse projeto foi desenvolvido para cadeira de Infra-estrutura de Software (IF677) no Centro de Informática da UFPE no período 2022.1.</p3>
 </div><br><br>
 
@@ -21,7 +21,7 @@
 * [NASM](https://www.nasm.us/): montador de assembly x86
 * [QEMU](https://www.qemu.org/): emulador de processador para virtualização.
 * [Makefile](https://howtoinstall.co/pt/make): macro para compliação dos arquivos.
-* Outras: linux, vscod, webbrowser
+* Outras: linux, vscode, webbrowser
 </div><br>
 
 <div>
@@ -45,13 +45,13 @@
 </div><br>
 
 ## Autor
-[<img src="https://avatars.githubusercontent.com/jrchakalo?v=4" width=115><br><sub>Junior Silva</sub>](https://github.com/jrchakalo)
+[<img src="https://avatars.githubusercontent.com/jrchakalo?v=4" width=115><br><sub>Júnior Silva</sub>](https://github.com/jrchakalo)
 
 <br>
 
 <div>
   <h2> Licença </h2>
   <p3>Genius x86 é licenciado pelo MIT.</p3>
-</div><br>
+</div>
 
 A licença pode ser encontrada em [LICENSE.md](https://github.com/jrchakalo/Genius-x86/blob/main/LICENSE.md)
