@@ -10,7 +10,7 @@
 
 <div>
   <h2> Descrição do Projeto </h2>
-  <p3> O Genius-x86 é um jogo feito em Assembly x86 baseado no clssico jogo Genius da decáda de 80. Nele o jogador é desafiado a lembrar a hordem de uma sequencia de cores conforme elas vão aparecendo. Você tem o que é necessário para vencer esse desafio de memória?</p3><br><br>
+  <p3> O Genius-x86 é um jogo feito em Assembly x86 baseado no clássico jogo Genius da decáda de 80. Nele o jogador é desafiado a lembrar a hordem de uma sequencia de cores conforme elas vão aparecendo. Você tem o que é necessário para vencer esse desafio de memória?</p3><br><br>
   <p3>Esse projeto foi desenvolvido para cadeira de Infra-estrutura de Software (IF677) no Centro de Informática da UFPE no período 2022.1.</p3>
 </div><br><br>
 
